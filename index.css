@@ -1,0 +1,46 @@
+body {
+    font-family:  Georgia, 'Times New Roman', Times, serif, sans-serif;
+    text-align: center
+}
+
+h1 {
+    color: #050101;
+}
+
+form {
+    margin: 10px auto;
+    max-width: 400px;
+    padding: 50px;
+    border: 1px solid #03fc2c;
+    border-radius: 10px;
+    background-color: #05d6f6;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #06e6f6;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #32f706;
+    color: #07f4fc;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #02c1fb;
+}
+
+

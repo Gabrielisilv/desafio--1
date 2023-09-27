@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listagem de Vagas</title>
+</head>
+<body>
+    <h1>Listagem de Vagas</h1>
+    <ul id="vaga-list">
+        <li>Placa: ABC-1234 - Proprietário: João - Apartamento: 101 - Bloco: A - Modelo: Sedan - Cor: Preto - Vaga: 1</li>
+        <li>Placa: XYZ-5678 - Proprietário: Maria - Apartamento: 202 - Bloco: B - Modelo: SUV - Cor: Prata - Vaga: 2</li>
+        <li>Placa: DEF-9876 - Proprietário: Carlos - Apartamento: 303 - Bloco: C - Modelo: Hatchback - Cor: Vermelho - Vaga: 3</li>
+    </ul>
+</body>
+</html>
